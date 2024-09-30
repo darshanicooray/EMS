@@ -1,4 +1,4 @@
-# Examination Result Management System (ERMS)
+# Examination Result Management System for Kotelawala Defence University (ERMS)
 
 ## Project Description
 This project aims to automate the current manual examination process at Kotelawala Defence University. The Examination Result Management System (ERMS) is a web-based application designed to streamline various aspects of academic administration, result management and student information handling.
