@@ -1,7 +1,7 @@
 # Examination Result Management System (ERMS)
 
 ## Project Description
-This project aims to automate the current manual examination process at KDU University. The Examination Result Management System (ERMS) is a web-based application designed to streamline various aspects of academic administration, result management and student information handling.
+This project aims to automate the current manual examination process at Kotelawala Defence University. The Examination Result Management System (ERMS) is a web-based application designed to streamline various aspects of academic administration, result management and student information handling.
 
 ## Features
 - Automated exam result sheets generation
@@ -19,12 +19,13 @@ This project aims to automate the current manual examination process at KDU Univ
 - Security: Secure login methods, encryption for sensitive data
 
 ## Installation
-1.  Clone the repository:
+1.Clone the repository:
 git clone https://github.com/darshanicooray/EMS.git
 
 2. Set up the database:
    - Create a MySQL database named `exam`
    - Import the provided SQL schema file (`exam.sql`) into the database
+
 3. Configure the PHP environment:
    - Ensure PHP and MySQL are installed on your system
    - Update the `database.php` file with your database credentials
@@ -39,7 +40,7 @@ http://localhost/EMS/
 
 ## Usage
 ### Admin Panel
-- Log in as an admin to access exam scheduling, result management, and student information
+- Login as an admin to access exam scheduling, result management, and student information
 - Manage exam result and generate final result sheets
 
 ### Student Portal
